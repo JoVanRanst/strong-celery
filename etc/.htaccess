@@ -1,0 +1,4 @@
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "https://www.celery.jovanranst.com"
+    Header set Access-Control-Allow-Headers "X-Requested-With"
+</IfModule>
